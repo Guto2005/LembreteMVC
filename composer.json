@@ -1,0 +1,16 @@
+{
+    "name": "guto2005/lembretemvc",
+    "description": "\"Projeto pedagógico para demonstrar criação de API com php puro e MVC\"",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Guto2005\\Lembretemvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo"
+        }
+    ],
+    "require": {}
+}
