@@ -1,6 +1,6 @@
 <?php
 
-namespace Guto2005\LembreteMVC\Controllers;
+namespace guto2005\LembreteMVC\Controllers;
 
 class LembreteController{
     

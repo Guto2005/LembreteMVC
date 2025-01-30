@@ -4,7 +4,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Guto2005\\Lembretemvc\\": "api/"
+            "Guto2005\\LembreteMVC\\": "api/"
         }
     },
     "authors": [

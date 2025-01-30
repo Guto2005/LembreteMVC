@@ -1,7 +1,7 @@
 #impedir o acesso aos arquivos
 
 
-Options: -indexes
+Options -indexes
 
 #habilitando reescrita de rota
 
